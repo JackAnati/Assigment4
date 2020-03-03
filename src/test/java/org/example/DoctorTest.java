@@ -33,8 +33,4 @@ public class DoctorTest {
         Assert.assertEquals(25, sur.getAge());
     }
 
-    @Test
-    public void xRay() {
-        sur.xRay();
-    }
 }
